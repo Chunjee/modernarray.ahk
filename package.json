@@ -1,0 +1,35 @@
+{
+	"name": "modernarray.ahk",
+	"version": "0.1.0",
+	"description": "An AutoHotkey package implementing common array methods.",
+	"main": "modernarray.ahk",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Chunjee/modernarray.ahk.git"
+	},
+	"keywords": [
+		"array",
+		"find",
+		"forEach",
+		"indexOf",
+		"join",
+		"reduce",
+		"reverse",
+		"slice",
+		"splice"
+	],
+	"dependencies": { },
+	"devDependencies": { },
+	"contributors": [
+		{ "name": "Nich-Cebolla" }
+	],
+	"author": "Shawn Brooker",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Chunjee/modernarray.ahk/issues"
+	},
+	"homepage": "https://github.com/Chunjee/modernarray.ahk"
+}
